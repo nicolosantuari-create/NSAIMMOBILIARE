@@ -1,0 +1,33 @@
+{
+  "projects": [
+    {
+      "id": "le-terrazze",
+      "title": "Le Terrazze",
+      "location": "Baselga di Pinè",
+      "status": "Completato",
+      "units": 15,
+      "class": "A+",
+      "image": "https://r2-bucket.flowith.net/f/ad26ee0576442d08/Le_terrazze.jpg",
+      "description": "L'eleganza della luce e dello spazio. Un complesso residenziale che ridefinisce il concetto di abitare moderno in quota."
+    },
+    {
+      "id": "residenza-orizzonti",
+      "title": "Residenza Orizzonti",
+      "location": "Baselga di Pinè",
+      "status": "In Sviluppo",
+      "units": 13,
+      "class": "A+",
+      "image": "https://r2-bucket.flowith.net/f/1cb40a977897c21e/Orizzonti.jpg",
+      "description": "Vivere il confine tra architettura e natura. 13 unità caratterizzate da ampie vetrate e materiali naturali."
+    },
+    {
+      "id": "palazzo-duomo",
+      "title": "Palazzo Duomo",
+      "location": "Trento Centro",
+      "status": "In Sviluppo",
+      "type": "Restauro Conservativo",
+      "image": "https://r2-bucket.flowith.net/f/e944b43c3f1e7245/Duomo_trento.jpg",
+      "description": "Un intervento di prestigio nel cuore storico di Trento. Il connubio perfetto tra storia e comfort contemporaneo."
+    }
+  ]
+}
